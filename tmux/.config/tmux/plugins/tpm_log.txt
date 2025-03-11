@@ -1,0 +1,415 @@
+[2025-03-08 12:44:57.685]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 12:44:57.707]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 12:44:57.779]	Installing "tmux-resurrect"
+[2025-03-08 12:45:01.701]	  "tmux-resurrect" download success
+[2025-03-08 12:45:01.730]	Done.
+
+[2025-03-08 12:45:15.444]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 12:45:15.465]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 12:45:15.534]	Already installed "tmux-resurrect"
+[2025-03-08 12:45:15.555]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 12:45:15.603]	Updating all plugins!
+[2025-03-08 12:45:15.628]	
+[2025-03-08 12:45:15.883]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 12:45:15.927]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 12:45:16.000]	Already installed "tmux-resurrect"
+[2025-03-08 12:45:16.022]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 12:45:16.069]	Updating all plugins!
+[2025-03-08 12:45:16.095]	
+[2025-03-08 12:45:16.782]	  "tmux-resurrect" update success
+[2025-03-08 12:45:16.803]	    | Already up to date.
+[2025-03-08 12:45:16.825]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 12:45:16.888]	Done.
+
+[2025-03-08 12:45:17.497]	  "tmux-resurrect" update success
+[2025-03-08 12:45:17.517]	    | Already up to date.
+[2025-03-08 12:45:17.539]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 12:45:17.600]	Removing "tmux-resurrect"
+[2025-03-08 12:45:17.621]	  "tmux-resurrect" clean success
+[2025-03-08 12:45:17.642]	Done.
+
+[2025-03-08 12:56:22.893]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 12:56:22.914]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 12:56:22.982]	Installing "tmux-resurrect"
+[2025-03-08 12:56:27.502]	  "tmux-resurrect" download success
+[2025-03-08 12:56:27.523]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 12:56:27.569]	Updating all plugins!
+[2025-03-08 12:56:27.591]	
+[2025-03-08 12:56:28.672]	  "tmux-resurrect" update success
+[2025-03-08 12:56:28.694]	    | Already up to date.
+[2025-03-08 12:56:28.715]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 12:56:28.778]	Done.
+
+[2025-03-08 13:05:00.807]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:05:00.835]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:05:00.911]	Already installed "tmux-resurrect"
+[2025-03-08 13:05:00.936]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:05:00.983]	Updating all plugins!
+[2025-03-08 13:05:01.005]	
+[2025-03-08 13:05:01.165]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:05:01.186]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:05:01.273]	Already installed "tmux-resurrect"
+[2025-03-08 13:05:01.298]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:05:01.354]	Updating all plugins!
+[2025-03-08 13:05:01.386]	
+[2025-03-08 13:05:05.043]	  "tmux-resurrect" update success
+[2025-03-08 13:05:05.068]	    | Already up to date.
+[2025-03-08 13:05:05.089]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:05:05.161]	Done.
+
+[2025-03-08 13:05:05.714]	  "tmux-resurrect" update success
+[2025-03-08 13:05:05.780]	    | Already up to date.
+[2025-03-08 13:05:05.833]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:05:05.963]	Removing "tmux-resurrect"
+[2025-03-08 13:05:05.998]	  "tmux-resurrect" clean success
+[2025-03-08 13:05:06.029]	Done.
+
+[2025-03-08 13:18:30.321]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:18:30.361]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:18:30.426]	Installing "tmux-resurrect"
+[2025-03-08 13:18:34.894]	  "tmux-resurrect" download success
+[2025-03-08 13:18:34.915]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:18:34.960]	Updating all plugins!
+[2025-03-08 13:18:34.981]	
+[2025-03-08 13:18:36.010]	  "tmux-resurrect" update success
+[2025-03-08 13:18:36.030]	    | Already up to date.
+[2025-03-08 13:18:36.051]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:18:36.116]	Done.
+
+[2025-03-08 13:31:49.506]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:31:49.530]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:31:49.635]	Already installed "tmux-resurrect"
+[2025-03-08 13:31:49.660]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:31:49.721]	Updating all plugins!
+[2025-03-08 13:31:49.752]	
+[2025-03-08 13:31:51.126]	  "tmux-resurrect" update success
+[2025-03-08 13:31:51.147]	    | Already up to date.
+[2025-03-08 13:31:51.167]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:31:51.231]	Done.
+
+[2025-03-08 13:31:52.189]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:31:52.210]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:31:52.351]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:31:52.408]	Updating all plugins!
+[2025-03-08 13:31:52.428]	
+[2025-03-08 13:31:52.449]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:31:52.508]	Removing "tmux-resurrect"
+[2025-03-08 13:31:52.528]	  "tmux-resurrect" clean success
+[2025-03-08 13:31:52.548]	Done.
+
+[2025-03-08 13:33:17.386]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:33:17.426]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:33:17.428]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:33:17.450]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:33:17.509]	Installing "tmux-resurrect"
+[2025-03-08 13:33:17.528]	Already installed "tmux-resurrect"
+[2025-03-08 13:33:17.549]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:33:17.595]	Updating all plugins!
+[2025-03-08 13:33:17.616]	
+[2025-03-08 13:33:21.570]	  "tmux-resurrect" update fail
+[2025-03-08 13:33:21.591]	    | From https://github.com/tmux-plugins/tmux-resurrect
+[2025-03-08 13:33:21.611]	    |  * branch            HEAD       -> FETCH_HEAD
+[2025-03-08 13:33:21.632]	    | error: The following untracked working tree files would be overwritten by merge:
+[2025-03-08 13:33:21.652]	    | 	.gitattributes
+[2025-03-08 13:33:21.673]	    | 	.gitignore
+[2025-03-08 13:33:21.696]	    | 	.gitmodules
+[2025-03-08 13:33:21.716]	    | 	.travis.yml
+[2025-03-08 13:33:21.737]	    | 	CHANGELOG.md
+[2025-03-08 13:33:21.757]	    | 	CONTRIBUTING.md
+[2025-03-08 13:33:21.777]	    | 	LICENSE.md
+[2025-03-08 13:33:21.797]	    | 	README.md
+[2025-03-08 13:33:21.817]	    | 	docs/custom_key_bindings.md
+[2025-03-08 13:33:21.838]	    | 	docs/hooks.md
+[2025-03-08 13:33:21.861]	    | 	docs/migrating_from_tmuxinator.md
+[2025-03-08 13:33:21.883]	    | 	docs/restoring_bash_history.md
+[2025-03-08 13:33:21.904]	    | 	docs/restoring_pane_contents.md
+[2025-03-08 13:33:21.927]	    | 	docs/restoring_previously_saved_environment.md
+[2025-03-08 13:33:21.948]	    | 	docs/restoring_programs.md
+[2025-03-08 13:33:21.969]	    | 	docs/restoring_vim_and_neovim_sessions.md
+[2025-03-08 13:33:21.990]	    | 	docs/save_dir.md
+[2025-03-08 13:33:22.012]	    | 	resurrect.tmux
+[2025-03-08 13:33:22.033]	    | 	run_tests
+[2025-03-08 13:33:22.061]	    | 	save_command_strategies/gdb.sh
+[2025-03-08 13:33:22.084]	    | 	save_command_strategies/linux_procfs.sh
+[2025-03-08 13:33:22.108]	    | 	save_command_strategies/pgrep.sh
+[2025-03-08 13:33:22.131]	    | 	save_command_strategies/ps.sh
+[2025-03-08 13:33:22.152]	    | 	scripts/check_tmux_version.sh
+[2025-03-08 13:33:22.174]	    | 	scripts/helpers.sh
+[2025-03-08 13:33:22.196]	    | 	scripts/process_restore_helpers.sh
+[2025-03-08 13:33:22.217]	    | 	scripts/restore.exp
+[2025-03-08 13:33:22.239]	    | 	scripts/restore.sh
+[2025-03-08 13:33:22.261]	    | 	scripts/save.sh
+[2025-03-08 13:33:22.281]	    | 	scripts/spinner_helpers.sh
+[2025-03-08 13:33:22.301]	    | 	scripts/tmux_spinner.sh
+[2025-03-08 13:33:22.321]	    | 	scripts/variables.sh
+[2025-03-08 13:33:22.342]	    | 	strategies/irb_default_strategy.sh
+[2025-03-08 13:33:22.362]	    | 	strategies/mosh-client_default_strategy.sh
+[2025-03-08 13:33:22.385]	    | 	strategies/nvim_session.sh
+[2025-03-08 13:33:22.411]	    | 	strategies/vim_session.sh
+[2025-03-08 13:33:22.437]	    | 	tests/fixtures/restore_file.txt
+[2025-03-08 13:33:22.462]	    | 	tests/fixtures/save_file.txt
+[2025-03-08 13:33:22.490]	    | 	tests/helpers/create_and_save_tmux_test_environment.exp
+[2025-03-08 13:33:22.515]	    | 	tests/helpers/expect_helpers.exp
+[2025-03-08 13:33:22.541]	    | 	tests/helpers/helpers.sh
+[2025-03-08 13:33:22.568]	    | 	tests/helpers/restore_and_save_tmux_test_environment.exp
+[2025-03-08 13:33:22.591]	    | 	tests/helpers/resurrect_helpers.sh
+[2025-03-08 13:33:22.612]	    | 	tests/run_tests_in_isolation
+[2025-03-08 13:33:22.632]	    | 	tests/test_resurrect_restore.sh
+[2025-03-08 13:33:22.652]	    | 	tests/test_resurrect_save.sh
+[2025-03-08 13:33:22.672]	    | 	video/issue_vid.png
+[2025-03-08 13:33:22.692]	    | 	video/screencast_img.png
+[2025-03-08 13:33:22.716]	    | 	video/script.md
+[2025-03-08 13:33:22.737]	    | Please move or remove them before you merge.
+[2025-03-08 13:33:22.757]	    | Aborting
+[2025-03-08 13:33:22.778]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:33:22.847]	Done.
+
+[2025-03-08 13:33:23.047]	  "tmux-resurrect" download success
+[2025-03-08 13:33:23.070]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:33:23.123]	Updating all plugins!
+[2025-03-08 13:33:23.145]	
+[2025-03-08 13:33:23.167]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:33:23.229]	Removing "tmux-resurrect"
+[2025-03-08 13:33:23.250]	  "tmux-resurrect" clean success
+[2025-03-08 13:33:23.271]	Done.
+
+[2025-03-08 13:33:44.917]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:33:44.937]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:33:45.005]	Installing "tmux-resurrect"
+[2025-03-08 13:33:50.244]	  "tmux-resurrect" download success
+[2025-03-08 13:33:50.265]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:33:50.310]	Updating all plugins!
+[2025-03-08 13:33:50.331]	
+[2025-03-08 13:33:51.495]	  "tmux-resurrect" update success
+[2025-03-08 13:33:51.515]	    | Already up to date.
+[2025-03-08 13:33:51.536]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:33:51.598]	Done.
+
+[2025-03-08 13:34:23.941]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:34:23.962]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:34:24.029]	Already installed "tmux-resurrect"
+[2025-03-08 13:34:24.049]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:34:24.095]	Updating all plugins!
+[2025-03-08 13:34:24.118]	
+[2025-03-08 13:34:25.293]	  "tmux-resurrect" update success
+[2025-03-08 13:34:25.313]	    | Already up to date.
+[2025-03-08 13:34:25.334]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:34:25.396]	Done.
+
+[2025-03-08 13:40:02.416]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:40:02.437]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:40:02.504]	Already installed "tmux-resurrect"
+[2025-03-08 13:40:02.524]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:40:02.582]	Updating all plugins!
+[2025-03-08 13:40:02.619]	
+[2025-03-08 13:40:04.057]	  "tmux-resurrect" update success
+[2025-03-08 13:40:04.078]	    | Already up to date.
+[2025-03-08 13:40:04.099]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:40:04.162]	Done.
+
+[2025-03-08 13:40:04.609]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:40:04.630]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:40:04.687]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:40:04.733]	Updating all plugins!
+[2025-03-08 13:40:04.754]	
+[2025-03-08 13:40:04.775]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:40:04.834]	Removing "tmux-resurrect"
+[2025-03-08 13:40:04.855]	  "tmux-resurrect" clean success
+[2025-03-08 13:40:04.876]	Done.
+
+[2025-03-08 13:45:19.857]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:45:19.877]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:45:19.941]	Installing "tmux-resurrect"
+[2025-03-08 13:45:25.246]	  "tmux-resurrect" download success
+[2025-03-08 13:45:25.273]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:45:25.723]	unknown variable: TMUX_PLUGIN_MANAGER_PATH
+[2025-03-08 13:45:25.743]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-03-08 13:45:25.764]	Aborting.
+[2025-03-08 13:45:25.784]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:45:26.209]	unknown variable: TMUX_PLUGIN_MANAGER_PATH
+[2025-03-08 13:45:26.229]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-03-08 13:45:26.249]	Aborting.
+[2025-03-08 13:45:26.270]	Done.
+
+[2025-03-08 13:45:30.188]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:45:30.209]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:45:30.275]	Already installed "tmux-resurrect"
+[2025-03-08 13:45:30.297]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:45:30.405]	Updating all plugins!
+[2025-03-08 13:45:30.436]	
+[2025-03-08 13:45:32.127]	  "tmux-resurrect" update success
+[2025-03-08 13:45:32.147]	    | Already up to date.
+[2025-03-08 13:45:32.168]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:45:32.230]	Done.
+
+[2025-03-08 13:46:32.841]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:46:32.864]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:46:32.929]	Already installed "tmux-resurrect"
+[2025-03-08 13:46:32.950]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:46:32.995]	Updating all plugins!
+[2025-03-08 13:46:33.016]	
+[2025-03-08 13:46:34.471]	  "tmux-resurrect" update success
+[2025-03-08 13:46:34.491]	    | Already up to date.
+[2025-03-08 13:46:34.511]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:46:34.573]	Done.
+
+[2025-03-08 13:53:51.661]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:53:51.683]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:53:51.758]	Already installed "tmux-resurrect"
+[2025-03-08 13:53:51.780]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:53:51.830]	Updating all plugins!
+[2025-03-08 13:53:51.856]	
+[2025-03-08 13:53:54.351]	  "tmux-resurrect" update success
+[2025-03-08 13:53:54.374]	    | Already up to date.
+[2025-03-08 13:53:54.395]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:53:54.464]	Done.
+
+[2025-03-08 13:59:30.818]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 13:59:30.838]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 13:59:30.905]	Already installed "tmux-resurrect"
+[2025-03-08 13:59:30.925]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 13:59:30.973]	Updating all plugins!
+[2025-03-08 13:59:30.994]	
+[2025-03-08 13:59:39.054]	  "tmux-resurrect" update success
+[2025-03-08 13:59:39.074]	    | Already up to date.
+[2025-03-08 13:59:39.094]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 13:59:39.156]	Done.
+
+[2025-03-08 14:02:59.745]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 14:02:59.766]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 14:02:59.832]	Already installed "tmux-resurrect"
+[2025-03-08 14:02:59.853]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 14:02:59.898]	Updating all plugins!
+[2025-03-08 14:02:59.919]	
+[2025-03-08 14:03:12.029]	  "tmux-resurrect" update success
+[2025-03-08 14:03:12.050]	    | Already up to date.
+[2025-03-08 14:03:12.070]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 14:03:12.138]	Done.
+
+[2025-03-08 14:07:20.996]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 14:07:21.031]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 14:07:21.098]	Already installed "tmux-resurrect"
+[2025-03-08 14:07:21.120]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 14:07:21.165]	Updating all plugins!
+[2025-03-08 14:07:21.186]	
+[2025-03-08 14:07:23.052]	  "tmux-resurrect" update success
+[2025-03-08 14:07:23.097]	    | Already up to date.
+[2025-03-08 14:07:23.159]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 14:07:23.229]	Done.
+
+[2025-03-08 14:08:36.355]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 14:08:36.375]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 14:08:36.441]	Already installed "tmux-resurrect"
+[2025-03-08 14:08:36.461]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 14:08:36.508]	Updating all plugins!
+[2025-03-08 14:08:36.529]	
+[2025-03-08 14:08:38.630]	  "tmux-resurrect" update success
+[2025-03-08 14:08:38.651]	    | Already up to date.
+[2025-03-08 14:08:38.671]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 14:08:38.733]	Done.
+
+[2025-03-08 14:12:10.274]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 14:12:10.327]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 14:12:10.412]	Already installed "tmux-resurrect"
+[2025-03-08 14:12:10.432]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 14:12:10.477]	Updating all plugins!
+[2025-03-08 14:12:10.498]	
+[2025-03-08 14:12:11.583]	  "tmux-resurrect" update success
+[2025-03-08 14:12:11.603]	    | Already up to date.
+[2025-03-08 14:12:11.624]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 14:12:11.686]	Done.
+
+[2025-03-08 14:12:37.648]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 14:12:37.668]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 14:12:37.734]	Already installed "tmux-resurrect"
+[2025-03-08 14:12:37.754]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 14:12:37.799]	Updating all plugins!
+[2025-03-08 14:12:37.820]	
+[2025-03-08 14:12:39.065]	  "tmux-resurrect" update success
+[2025-03-08 14:12:39.085]	    | Already up to date.
+[2025-03-08 14:12:39.106]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 14:12:39.172]	Done.
+
+[2025-03-08 17:24:33.425]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 17:24:33.446]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 17:24:33.516]	Already installed "tmux-resurrect"
+[2025-03-08 17:24:33.537]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 17:24:33.585]	Updating all plugins!
+[2025-03-08 17:24:33.607]	
+[2025-03-08 17:24:34.729]	  "tmux-resurrect" update success
+[2025-03-08 17:24:34.766]	    | Already up to date.
+[2025-03-08 17:24:34.830]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 17:24:34.972]	Done.
+
+[2025-03-08 17:24:35.202]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 17:24:35.229]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 17:24:35.297]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 17:24:35.355]	Updating all plugins!
+[2025-03-08 17:24:35.378]	
+[2025-03-08 17:24:35.404]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 17:24:35.489]	Removing "tmux-resurrect"
+[2025-03-08 17:24:35.512]	  "tmux-resurrect" clean success
+[2025-03-08 17:24:35.536]	Done.
+
+[2025-03-08 20:04:23.709]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 20:04:23.730]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 20:04:23.795]	Installing "tmux-resurrect"
+[2025-03-08 20:04:51.306]	  "tmux-resurrect" download success
+[2025-03-08 20:04:51.355]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 20:04:51.429]	Updating all plugins!
+[2025-03-08 20:04:51.456]	
+[2025-03-08 20:04:52.467]	  "tmux-resurrect" update success
+[2025-03-08 20:04:52.488]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-08 20:04:52.504]	    | Already up to date.
+[2025-03-08 20:04:52.518]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-08 20:04:52.530]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 20:04:52.609]	Already installed "tmux-resurrect"
+[2025-03-08 20:04:52.616]	Done.
+
+[2025-03-08 20:04:52.645]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-08 20:04:52.696]	Updating all plugins!
+[2025-03-08 20:04:52.718]	
+[2025-03-08 20:04:52.740]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-08 20:04:52.806]	Removing "tmux-resurrect"
+[2025-03-08 20:04:52.827]	  "tmux-resurrect" clean success
+[2025-03-08 20:04:52.847]	Done.
+
+[2025-03-10 09:10:10.247]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-10 09:10:10.269]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-10 09:10:11.236]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-10 09:10:11.871]	Updating all plugins!
+[2025-03-10 09:10:11.896]	
+[2025-03-10 09:10:11.925]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-10 09:10:12.001]	Done.
+
+[2025-03-10 09:10:14.950]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-10 09:10:14.985]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-10 09:10:15.097]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-10 09:10:15.157]	Updating all plugins!
+[2025-03-10 09:10:15.183]	
+[2025-03-10 09:10:15.204]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-10 09:10:15.265]	Done.
+
+[2025-03-10 09:16:45.368]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-10 09:16:45.389]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-10 09:16:45.453]	Installing "tmux-resurrect"
+[2025-03-10 09:16:50.022]	  "tmux-resurrect" download success
+[2025-03-10 09:16:50.042]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-10 09:16:50.087]	Updating all plugins!
+[2025-03-10 09:16:50.108]	
+[2025-03-10 09:16:51.182]	  "tmux-resurrect" update success
+[2025-03-10 09:16:51.202]	    | Already up to date.
+[2025-03-10 09:16:51.223]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-10 09:16:51.284]	Done.
+
+[2025-03-11 16:48:05.260]	List of discovered tpm plugins: tmux-plugins/tmux-resurrect
+[2025-03-11 16:48:05.289]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-11 16:48:05.381]	Already installed "tmux-resurrect"
+[2025-03-11 16:48:05.409]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-11 16:48:05.475]	Updating all plugins!
+[2025-03-11 16:48:05.508]	
+[2025-03-11 16:48:06.600]	  "tmux-resurrect" update success
+[2025-03-11 16:48:06.621]	    | Already up to date.
+[2025-03-11 16:48:06.644]	Invoking /home/sakrit/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-11 16:48:06.710]	Done.
+
